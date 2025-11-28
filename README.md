@@ -136,10 +136,3 @@ This project successfully builds a robust **Smart Traffic Monitoring System** us
 
 ---
 
-### 👤 Author
-
-<a href= 'https://github.com/MazenSehsah'/>Mazen Hesham
-<a href= 'https://github.com/AhmedAwad231'/>Ahmed Awad
-<a href= 'https://github.com/AleyMohammed'/>Ali Mohamed
-<a href= 'https://github.com/abdallah-mostafa-Max'/>Abdullah Mostafa
-<a href= 'https://github.com/aya5ashaba-rgb'/>Aya Ali
